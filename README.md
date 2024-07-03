@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agnish Bhattacharya</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer</h3>
 
 - 🔭 I’m currently working on [Node-Auth_Service](https://github.com/Agnish1611/Node-Auth_Service)
 
