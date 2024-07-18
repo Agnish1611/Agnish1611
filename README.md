@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agnish Bhattacharya</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on [Node-Auth_Service](https://github.com/Agnish1611/Node-Auth_Service)
+- 🔭 I’m currently working on [Projecctory](https://github.com/Agnish1611/Projecctory)
 
-- 🌱 I’m currently learning **AWS, Typescript, Next**
+- 🌱 I’m currently learning **AWS, NextJS**
 
 - 👯 I’m looking to collaborate on [Airline_Management-Search_Service](https://github.com/Agnish1611/Airline_Management-Search_Service)
 
