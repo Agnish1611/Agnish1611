@@ -1,22 +1,97 @@
-<h1 align="center">Hi 👋, I'm Agnish Bhattacharya</h1>
-<h3 align="center">A passionate web developer</h3>
+# 🥂 Hey, I'm **Agnish Bhattacharya**
 
-- 🔭 I’m currently working on [Projecctory](https://github.com/Agnish1611/Projecctory)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full+Stack+Developer;Web3+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg)
+  
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-- 🌱 I’m currently learning **AWS, NextJS**
+## 🚀 **About Me**
 
-- 👯 I’m looking to collaborate on [Airline_Management-Search_Service](https://github.com/Agnish1611/Airline_Management-Search_Service)
+```typescript
+const agnish = {
+  role: "Full Stack Developer & Aspiring Web3 Developer (still fighting Rust)",
+  passion: [
+    "Building 'real world' apps that break in production",
+    "Overthinking button colors for 3 hours straight"
+  ],
+  currentFocus: [
+    "Rust — currently losing the fight",
+    "tRPC: because who needs restful sleep?",
+    "DevOps: just me crying in YAML",
+    "Blockchain: reading buzzwords until enlightenment"
+  ],
+  expertise: {
+    backend: "Designing systems that scale (on paper)",
+    frontend: "Clean UI/UX with the occasional rage quit",
+    cloud: "Familiar with AWS, Docker, and hoping Vercel doesn’t crash"
+  },
+  mindset: "Caffeinated, curious, and mildly confused"
+};
+```
 
-- 📫 How to reach me **sukla.baruipur2@gmail.com**
+## 🛠️ **Tech Stack**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/agnish-bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnish-bhattacharya" height="30" width="40" /></a>
-<a href="https://instagram.com/_agnish16_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_agnish16_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/agnish1611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="agnish1611" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/agnish_1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agnish_1611" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/agnish_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agnish_16" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![React](https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-21262d?style=for-the-badge&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-21262d?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-21262d?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-21262d?style=for-the-badge&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-21262d?style=for-the-badge&logo=hono&logoColor=E36002)
+![C++](https://img.shields.io/badge/C%2B%2B-21262d?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![MySQL](https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-21262d?style=for-the-badge&logo=Prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-21262d?style=for-the-badge&logo=mongoose&logoColor=880000)
+![Redis](https://img.shields.io/badge/Redis-21262d?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Solana](https://img.shields.io/badge/Solana-21262d?style=for-the-badge&logo=solana&logoColor=9945FF)
+![AWS](https://img.shields.io/badge/AWS-21262d?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-21262d?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-21262d?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-21262d?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+![Stripe](https://img.shields.io/badge/Stripe-21262d?style=for-the-badge&logo=stripe&logoColor=635BFF)
+![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnish1611&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnish1611&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+</div>
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Agnish1611&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+## 🎯 **Let's Connect**
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sukla.baruipur2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/agnish-bhattacharya-324031286/)
+[![Twitter](https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/agnish1611)
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=agnish1611&color=21262d&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+<div align="right">
+<sub>📅 Last Updated: 21 June 2025</sub>
+</div>
