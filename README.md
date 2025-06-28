@@ -20,7 +20,6 @@ const agnish = {
     "Rust — currently losing the fight",
     "tRPC: because who needs restful sleep?",
     "DevOps: just me crying in YAML",
-    "Blockchain: reading buzzwords until enlightenment"
   ],
   expertise: {
     backend: "Designing systems that scale (on paper)",
@@ -53,6 +52,8 @@ const agnish = {
 ![Mongoose](https://img.shields.io/badge/Mongoose-21262d?style=for-the-badge&logo=mongoose&logoColor=880000)
 ![Redis](https://img.shields.io/badge/Redis-21262d?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![Solana](https://img.shields.io/badge/Solana-21262d?style=for-the-badge&logo=solana&logoColor=9945FF)
+![Ethereum](https://img.shields.io/badge/Ethereum-21262d?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
+![Solidity](https://img.shields.io/badge/Solidity-21262d?style=for-the-badge&logo=solidity&logoColor=363636)
 ![AWS](https://img.shields.io/badge/AWS-21262d?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Vercel](https://img.shields.io/badge/Vercel-21262d?style=for-the-badge&logo=vercel&logoColor=white)
@@ -93,5 +94,5 @@ const agnish = {
 </div>
 
 <div align="right">
-<sub>📅 Last Updated: 21 June 2025</sub>
+<sub>📅 Last Updated: 28 June 2025</sub>
 </div>
